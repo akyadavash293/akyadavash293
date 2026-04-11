@@ -1,3 +1,3 @@
 my first git reamde.md
-<rd
+<rd>
 welcome to github site
